@@ -1,0 +1,68 @@
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.exe
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.deps.json
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.runtimeconfig.json
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\ref\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.Views.dll
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.Views.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorAssemblyInfo.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorAssemblyInfo.cs
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\staticwebassets\DevOpsDemo.StaticWebAssets.Manifest.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\staticwebassets\DevOpsDemo.StaticWebAssets.xml
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\scopedcss\bundle\DevOpsDemo.styles.css
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.TagHelpers.input.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.TagHelpers.output.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorCoreGenerate.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.Views.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\ref\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.genruntimeconfig.cache
+C:\Users\Sherif\Desktop\DevOpsDemo\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.csproj.CopyComplete
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\appsettings.json
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.exe
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.deps.json
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.runtimeconfig.json
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\ref\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.Views.dll
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\bin\Debug\net5.0\DevOpsDemo.Views.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorAssemblyInfo.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorAssemblyInfo.cs
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\staticwebassets\DevOpsDemo.StaticWebAssets.Manifest.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\staticwebassets\DevOpsDemo.StaticWebAssets.xml
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\scopedcss\bundle\DevOpsDemo.styles.css
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.TagHelpers.input.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.TagHelpers.output.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorCoreGenerate.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.Views.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\ref\DevOpsDemo.dll
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.pdb
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.genruntimeconfig.cache
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.csproj.CopyComplete
+C:\Users\Sherif\Desktop\DevOpsDemo -With Test\DevOpsDemo\obj\Debug\net5.0\DevOpsDemo.csproj.AssemblyReference.cache

@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roobanad\\OneDrive - DPDHL\\Documents\\Training\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj": {}
+    "D:\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roobanad\\OneDrive - DPDHL\\Documents\\Training\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj": {
+    "D:\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roobanad\\OneDrive - DPDHL\\Documents\\Training\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj",
+        "projectUniqueName": "D:\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj",
         "projectName": "DevOpsDemo",
-        "projectPath": "C:\\Users\\roobanad\\OneDrive - DPDHL\\Documents\\Training\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj",
-        "packagesPath": "C:\\Users\\roobanad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roobanad\\OneDrive - DPDHL\\Documents\\Training\\DevOpsDemo\\DevOpsDemo\\obj\\",
+        "projectPath": "D:\\DevOpsDemo\\DevOpsDemo\\DevOpsDemo.csproj",
+        "packagesPath": "C:\\Users\\Sherif\\.nuget\\packages\\",
+        "outputPath": "D:\\DevOpsDemo\\DevOpsDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roobanad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sherif\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://gallery.uipath.com/api/v2": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
